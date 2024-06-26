@@ -1,6 +1,8 @@
 # 0x_dappthreat
 
-0x_dappthreat is an open-source project inspired by the efforts of vx-underground. Our goal is to create the largest database of malicious smart contracts, Web 3.0 security/exploit defenses, and smart contract exploit analysis.
+0x_dappthreat is an open-source project inspired by the efforts of vx-underground. 
+
+Our goal is to create the largest database of malicious smart contracts, Web 3.0 security/exploit defenses, and smart contract exploit analysis.
 
 ## About vx-underground
 
